@@ -47,8 +47,15 @@ Always curious, always building, always improving ✨
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F7A8B8&center=true&vCenter=true&lines=Keep+learning;Keep+building;Keep+growing" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriaprados&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-✨ Thanks for visiting my profile ✨
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F7A8B8&center=true&vCenter=true&lines=Thanks+for+visiting+my+profile+✨" />
+</p>
+
