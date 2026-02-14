@@ -14,7 +14,29 @@ I’m a fourth-year Computer Engineering student focused on **software developme
 Right now, I’m doing my **professional internship**, gaining real-world experience and growing as a developer every day.
 
 I enjoy creating useful and elegant solutions, learning new technologies, and working in collaborative environments.  
-Always curious, always building, always improving. 
+Always curious, always building, always improving ✨
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" /></a>
+  <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+</p>
 
 ---
 
