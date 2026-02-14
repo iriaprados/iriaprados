@@ -1,4 +1,4 @@
-# Hi there, I'm Iria 🌸
+# Hi, I'm Iria 🌸
 
 🎓 Final-year Computer Engineering student  
 💼 Currently doing my professional internship  
