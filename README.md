@@ -13,7 +13,7 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 I’m a fourth-year Computer Engineering student focused on **software development**.  
 Right now, I’m doing my **professional internship**, gaining real-world experience and growing as a developer every day.
 
@@ -22,7 +22,7 @@ Always curious, always building, always improving ✨
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <p align="center">
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
   <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" /></a>
@@ -44,14 +44,14 @@ Always curious, always building, always improving ✨
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Cloud technologies 
 - Generative AI tools 
 - Software architecture principles 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriaprados&theme=tokyonight" alt="GitHub Streak" />
