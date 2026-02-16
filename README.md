@@ -1,6 +1,6 @@
 # Hi, I'm Iria <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
 
-<img align="right" src="https://raw.githubusercontent.com/iriaprados/iriaprados/refs/heads/main/Set_of_elegant_and_cozy_line_art_illustrated_icons_created_for__millpondestate____lineart__weddingstationery__inkingart-removebg-preview.png" width="150" style="margin-left: 10px;" />
+<img align="right" src="https://raw.githubusercontent.com/iriaprados/iriaprados/refs/heads/main/descarga%20(30).jpg" width="200" style="margin-left: 10px;" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iria-prados-cepero)
 
