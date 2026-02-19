@@ -48,7 +48,7 @@ Always curious, always building, always improving ✨
 - Cloud technologies 
 - Generative AI tools 
 - Software architecture
-- UI/UX design systems with Microfrontend architecture and React
+- UI/UX with Microfrontend and React
 
 ---
 
