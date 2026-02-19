@@ -47,7 +47,8 @@ Always curious, always building, always improving ✨
 ## Currently Learning
 - Cloud technologies 
 - Generative AI tools 
-- Software architecture principles 
+- Software architecture
+- UI/UX design systems with Microfrontend architecture and React
 
 ---
 
